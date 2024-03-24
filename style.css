@@ -1,0 +1,42 @@
+
+body{
+    background-color:gray;
+}
+
+#box{
+    height:100px;
+    width: max-content;
+    margin-top: 50px;
+    margin: auto;
+}
+
+.box2{
+    width: 550px;
+    margin-top: 50px;
+    margin: auto;
+}
+
+#search{
+    display: inline;
+    height:35px;
+    width:350px;
+   
+}
+
+#button{
+    display: inline;
+    height:35px;
+    width:60px;
+    background-color:green;
+}
+
+
+.heading{
+    text-align: center;
+    margin-bottom:50px;
+    
+} 
+
+
+
+
